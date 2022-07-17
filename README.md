@@ -15,7 +15,7 @@ php artisan migrate
 
 Database Name: "freelance_users"
 Please check the "freelance_users.sql" coplete databse at root directory.
-Individual tables given for initial import are "freelance_users.sql" and "freelance_users.sql" at root directory.
+Individual tables given for initial import are "currencies.sql" and "exchange_rates.sql" at root directory.
 
 
 For Backend - Laravel : 
