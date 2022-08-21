@@ -1,4 +1,4 @@
-# Property Jobs Laravel ReactJs App
+# Laravel App with Currency Conversion App
 
 > Laravel framework v8 and Php7.3.33
 
